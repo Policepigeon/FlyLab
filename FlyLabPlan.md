@@ -16,4 +16,18 @@ TBD
   PM -- Move flies (virgins) - separate males and females
 
 TBD
-  Take two vials
+  Take five vials and put a female along with a single male into each.
+  Collect the virgins and remove adults
+
+TBD
+  Record the nuber of pupae produced per pair per day
+  Record their mobility using movement assays
+  Record the pair's lifespan
+
+
+# Notation of handwritten notes:
+  V = virgin
+  NV = non virgin
+  G* = generation number
+  M = Male
+  F = Female

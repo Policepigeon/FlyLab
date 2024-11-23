@@ -15,7 +15,7 @@
   AM -- Check for adult flies and remove them (They are non-virgin)
   PM -- Move flies (virgins) - separate males and females
 
-TBD
+21/11
   Take five vials and put a female along with a single male into each.
   Collect the virgins and remove adults
 

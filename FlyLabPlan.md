@@ -11,11 +11,11 @@
   Dark pupae have started to appear
   Check vials every day eventually until eclosion occurs
 
-20/11
+20/11 : 1M -- TBD :
   AM -- Check for adult flies and remove them (They are non-virgin)
   PM -- Move flies (virgins) - separate males and females
 
-21/11
+TBD
   Take five vials and put a female along with a single male into each.
   Collect the virgins and remove adults
 
